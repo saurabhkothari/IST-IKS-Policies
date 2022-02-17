@@ -107,9 +107,9 @@ variable "k8s_infra-pwd" {
     type= string
 }
 
-variable "k8s_infra-resourcePoolName" {
+/* variable "k8s_infra-resourcePoolName" {
     type= string
-}
+} */
 
 variable "k8s_worker-policyName" {
     type =string
