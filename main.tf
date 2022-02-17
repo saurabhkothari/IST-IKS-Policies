@@ -72,6 +72,7 @@ resource "intersight_kubernetes_virtual_machine_instance_type" "masterinstance" 
   cpu       = 4
   memory    = 16386
   disk_size = 40
+  tags     = var.tags
   
   organization {
     object_type = "organization.Organization"
