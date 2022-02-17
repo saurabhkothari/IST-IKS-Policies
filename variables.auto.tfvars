@@ -20,6 +20,7 @@ k8s_network-cni="Calico"
 k8s_version-policy-name="iks-version"
 k8s_version-version-name="1.20.14-iks.0"
 k8s_version-description="version"
+k8s_infra-vcenterIP="10.106.236.60"
 k8s_infra-policyName="iks-infraConfig"
 k8s_infra-interfaces=["saukotha-shramu-dc|app|dc"]
 k8s_infra-clusterName="shramu-test"
