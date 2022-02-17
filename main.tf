@@ -56,7 +56,7 @@ module "infra_config_policy" {
   vc_cluster        = var.k8s_infra-clusterName
   vc_datastore      = var.k8s_infra-datastoreName
   vc_password       = var.k8s_infra-pwd
-  vc_resource_pool  = var.k8s_infra-resourcePoolName
+  #vc_resource_pool  = var.k8s_infra-resourcePoolName
   org_name          = var.organization
   tags     = var.tags
 
