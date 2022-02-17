@@ -31,7 +31,7 @@ organization="default"
 tags = [
   {
     "key" : "managed_by"
-    "value" : "Terraform"
+    "value" : "IST"
   },
   {
     "key" : "owner"
