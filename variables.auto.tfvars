@@ -1,7 +1,6 @@
 #apikey=""
 #secretkey="Secretkey.txt"
-ssh_user="iksadmin"
-#ssh_key=""
+
 ip_pool-name="iks-ippool"
 ip_pool-starting-address="172.16.0.200"
 ip_pool-pool-size=50
